@@ -51,10 +51,8 @@
             localesURI: "lang/",
             servers: [
               { addr: "wss://mc.arch.lol/", name: "ArchMC" },
-              { addr: "wss://mc.asspixel.net", name: "AssPixel" },
-              { addr: "wss://sus.shhnowisnottheti.me", name: "Ayunboom" },
-              { addr: "wss://aeon-network.net/1.8", name: "Aeon" },
-              { addr: "wss://zentic.org/", name: "Zentic" }
+              { addr: "wss://1b2t.eagler.host", name: "1 Builder 2 Tools" },
+    
             ]
           };
         }
@@ -86,3 +84,4 @@
 
 ]]></Content>
 </Module>
+
