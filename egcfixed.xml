@@ -5,7 +5,7 @@
 
 <!DOCTYPE html>
 
-<!-- It is genuinely annoying how many times I have had to fix this bug-riddled program. So please, enjoy it for the 9 days it works. -->
+<!-- It is genuinely annoying how many times I have had to fix this bug-riddled program. -->
   
 <html>
 <head>
@@ -52,6 +52,7 @@
             servers: [
               { addr: "wss://mc.arch.lol/", name: "ArchMC" },
               { addr: "wss://1b2t.eagler.host", name: "1 Builder 2 Tools" },
+              { addr: "https://github.com/PlanetDogeCodes", name: "Eagletcraft 1.8 by Planet_Doge" },
     
             ]
           };
