@@ -1,4 +1,7 @@
 # EagletcraftX
+
+## Succeded by EaglerLite: https://github.com/PlanetDogeCodes/EaglerLite
+
 PLEASE NOTE THAT THIS VERSION OF EAGLETCRAFT IS STABLE BUT OUTDATED, AND DEVELOPMENT OF IT HAS CEASED
 
 GET THE NEWER STABLE VERSION HERE: https://github.com/PlanetDogeCodes/Eagletcraft-1.12 (Also on GitLab)
